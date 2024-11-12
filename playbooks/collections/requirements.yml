@@ -1,0 +1,6 @@
+---
+collections:
+  - name: linuxfabrik.lfops
+    source: https://github.com/Linuxfabrik/lfops.git
+    type: git
+    version: main
